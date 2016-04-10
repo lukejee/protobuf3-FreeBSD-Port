@@ -66,5 +66,5 @@ lib/libprotoc.a
 lib/libprotoc.so
 lib/libprotoc.so.10
 lib/libprotoc.so.10.0.0
-libdata/pkgconfig/protobuf-lite.pc
-libdata/pkgconfig/protobuf.pc
+lib/pkgconfig/protobuf-lite.pc
+lib/pkgconfig/protobuf.pc
